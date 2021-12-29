@@ -1,0 +1,15 @@
+/Users/xakimov/Dev/Csharp/IlmHub.uz/Low/44/bin/Debug/net5.0/44.deps.json
+/Users/xakimov/Dev/Csharp/IlmHub.uz/Low/44/bin/Debug/net5.0/44.runtimeconfig.json
+/Users/xakimov/Dev/Csharp/IlmHub.uz/Low/44/bin/Debug/net5.0/44.runtimeconfig.dev.json
+/Users/xakimov/Dev/Csharp/IlmHub.uz/Low/44/bin/Debug/net5.0/44.dll
+/Users/xakimov/Dev/Csharp/IlmHub.uz/Low/44/bin/Debug/net5.0/ref/44.dll
+/Users/xakimov/Dev/Csharp/IlmHub.uz/Low/44/bin/Debug/net5.0/44.pdb
+/Users/xakimov/Dev/Csharp/IlmHub.uz/Low/44/obj/Debug/net5.0/44.csproj.AssemblyReference.cache
+/Users/xakimov/Dev/Csharp/IlmHub.uz/Low/44/obj/Debug/net5.0/44.GeneratedMSBuildEditorConfig.editorconfig
+/Users/xakimov/Dev/Csharp/IlmHub.uz/Low/44/obj/Debug/net5.0/44.AssemblyInfoInputs.cache
+/Users/xakimov/Dev/Csharp/IlmHub.uz/Low/44/obj/Debug/net5.0/44.AssemblyInfo.cs
+/Users/xakimov/Dev/Csharp/IlmHub.uz/Low/44/obj/Debug/net5.0/44.csproj.CoreCompileInputs.cache
+/Users/xakimov/Dev/Csharp/IlmHub.uz/Low/44/obj/Debug/net5.0/44.dll
+/Users/xakimov/Dev/Csharp/IlmHub.uz/Low/44/obj/Debug/net5.0/ref/44.dll
+/Users/xakimov/Dev/Csharp/IlmHub.uz/Low/44/obj/Debug/net5.0/44.pdb
+/Users/xakimov/Dev/Csharp/IlmHub.uz/Low/44/obj/Debug/net5.0/44.genruntimeconfig.cache
